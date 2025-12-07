@@ -2,7 +2,8 @@
 
 ## yourName.py
 ```
-Create a Python program that outputs your first and last name 10 times followed by outputting your last and first name 5 times.
+Create a Python program that outputs your first and last name 10 times followed
+by outputting your last and first name 5 times.
 ```
 
 ## inputMathOutput
@@ -29,12 +30,17 @@ Create a Python program that:
 ## inClassRacingChallenge.py
 ```
 Create a Python program that:
-You are to assume you are writing a car race program. The race will consist of three cars (car A, car B, car C). The length of a race is 100 spaces. Each car will begin at space 0. You will randomly choose a car to move. You will randomly move the car 1, 2, or 3 spaces. After each movement of a car, display the finish line and you will display the current position of all cars. The race will end when one car passes or reaches the finish line. After the race ends display 1st, 2nd, and 3rd place.
+You are to assume you are writing a car race program. The race will consist of three cars (car A, car B, car C).
+The length of a race is 100 spaces. Each car will begin at space 0.
+You will randomly choose a car to move. You will randomly move the car 1, 2, or 3 spaces.
+After each movement of a car, display the finish line and you will display the current position of all cars.
+The race will end when one car passes or reaches the finish line. After the race ends display 1st, 2nd, and 3rd place.
 ```
 
 ## shippingProgram.py
 ```
-Create a Python program that calculates the cost to ship a package. The cost is based on the weight of the package and the distance to ship the package.
+Create a Python program that calculates the cost to ship a package.
+The cost is based on the weight of the package and the distance to ship the package.
 ```
 
 ## temperatureFunctionListMenu.py
